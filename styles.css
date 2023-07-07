@@ -59,7 +59,7 @@ body{
   input, select{
     width: 90%;
     height: 30px;
-    border-reduis: 5px;
+    border-raduis: 5px;
     font-size: 16px;
   }
   
@@ -79,7 +79,7 @@ body{
     display: flex;
     flex-direction: row; 
     align-items: center;
-    paddimg-bottom: 5px;
+    dimg-bottom: 5px;
   }
   
   
